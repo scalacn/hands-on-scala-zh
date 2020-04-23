@@ -1,0 +1,16 @@
+*.scala eol=lf
+*.java  eol=lf
+*.txt   eol=lf
+*.md    eol=lf
+*.conf  eol=lf
+*.json  eol=lf
+*.js    eol=lf
+*.css   eol=lf
+*.jsx   eol=lf
+*.vue   eol=lf
+*.xml   eol=lf
+*.sbt   eol=lf
+*.less  eol=lf
+*.yml   eol=lf
+*.html  eol=lf
+*.svg   eol=lf
