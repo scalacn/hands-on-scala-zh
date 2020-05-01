@@ -6,4 +6,5 @@
 
 - [第1章：动手学Scala](ch01.md)
 - [第2章：设置](ch02.md)
+- [第3章：Scala基础](ch03.md)
 - [第4章：Scala集合](ch04.md)
