@@ -8,7 +8,7 @@
 
 | 章节                                  | 译者 |
 | ------------------------------------- | ---- |
-| [第1章：动手学Scala](ch01.md)         |      |
+| [第1章：动手学Scala](ch01.md)         | <a href="https://github.com/CedrusZhao" target="_blank">赵雪松</a> |
 | [第2章：设置](ch02.md)                | <a href="https://github.com/yangbajing" target="_blank">杨景</a> |
 | [第3章：Scala基础](ch03.md)           |      |
 | [第4章：Scala集合](ch04.md)           |      |
