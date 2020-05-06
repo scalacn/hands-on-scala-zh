@@ -10,7 +10,7 @@
 | ------------------------------------- | ---- |
 | [第1章：动手学Scala](ch01.md)         | <a href="https://github.com/CedrusZhao" target="_blank">赵雪松</a> |
 | [第2章：设置](ch02.md)                | <a href="https://github.com/yangbajing" target="_blank">杨景</a> |
-| [第3章：Scala基础](ch03.md)           |      |
+| [第3章：Scala基础](ch03.md)           | <a href="https://github.com/superleo-cn" target="_blank">胡波</a> |
 | [第4章：Scala集合](ch04.md)           |      |
 | [第5章：值得注意的Scala特性](ch05.md) |      |
 
