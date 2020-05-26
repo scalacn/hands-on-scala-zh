@@ -12,7 +12,7 @@
 | [第2章：设置](ch02.md)                | <a href="https://github.com/yangbajing" target="_blank">杨景</a> |
 | [第3章：Scala基础](ch03.md)           | <a href="https://github.com/superleo-cn" target="_blank">胡波</a> |
 | [第4章：Scala集合](ch04.md)           |      |
-| [第5章：值得注意的Scala特性](ch05.md) |      |
+| [第5章：耳目一新的Scala特性](ch05.md)   | <a href="https://github.com/pxsdirac" target="_blank">彭栩生</a> |
 
 审校：<a href="https://github.com/neomaclin" target="_blank">林炜翔</a>、<a href="https://github.com/sadhen" target="_blank">沈达</a>。
 
